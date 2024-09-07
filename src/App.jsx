@@ -3,6 +3,7 @@ import Button from "./components/Button"
 import Collaboration from "./components/Collaboration"
 import Header from "./components/Header"
 import Hero from "./components/Hero"
+import Services from "./components/Services"
 
 function App() {
 
@@ -13,6 +14,7 @@ function App() {
       <Hero />
       <Benefits />
       <Collaboration />
+      <Services />
      </div>
     </>
   )
